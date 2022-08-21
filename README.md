@@ -1,4 +1,4 @@
 # Azure-devops
 This is a repository for Azure devops
 
-### This was edited in cloud shell
+[![CI](https://github.com/sameedhayat/Azure-devops/actions/workflows/main.yml/badge.svg)](https://github.com/sameedhayat/Azure-devops/actions/workflows/main.yml)
